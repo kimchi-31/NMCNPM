@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <title>Form Đăng Nhập</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <form id="loginForm">
+    <h2>🔐 Đăng Nhập</h2>
+
+    <label for="username">Tên đăng nhập:</label>
+    <input type="text" id="username" placeholder="Nhập tên đăng nhập" required>
+
+    <label for="password">Mật khẩu:</label>
+    <input type="password" id="password" placeholder="Nhập mật khẩu" required>
+
+    <div class="checkbox-group">
+      <input type="checkbox" id="rememberMe">
+      <label for="rememberMe">Ghi nhớ đăng nhập</label>
+    </div>
+
+    <button type="submit">🔐 Đăng nhập</button>
+    <button type="reset">Hủy</button>
+  </form>
+
+  <script src="script.js"></script>
+</body>
+</html>
