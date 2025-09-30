@@ -15,14 +15,26 @@
 - GitHub, Markdown
 
 ## 4. Thành viên nhóm
-- Chi – Developer
-- [Tên khác] – Tester
-- [Tên khác] – Documenter
+- Quỳnh Như – Developer
+- Nguyên Khang – Tester
+- Kim Chi – Documenter
 
 ## 5. Kết quả tích hợp
-- [Chèn hình ảnh sơ đồ UML]
-- [Chèn đoạn mã Form Login]
-- [Liệt kê các file đã gom]
+- ![Use Case Diagram](.../lab03-atm-diagrams/LAB03-UC-ATM.png)
+- ![Sequence Diagram](.../lab03-atm-diagrams/LAB03-SQ-ATM.png)
+### 🔹 Đoạn mã Form Login
+Source code HTML, CSS, và JavaScript đã được upload đầy đủ tại thư mục:
+`labs/lab04-form-login/`
+Các chức năng chính:
+- Giao diện đăng nhập với input Username/Password
+- Kiểm tra dữ liệu nhập bằng JavaScript
+- Nút Login, Cancel, và Remember Me
+Xem chi tiết tại [lab04-form-login trên GitHub](../lab04-form-login/)
+### Các file đã gom:
+- LAB03-UC-ATM.png
+- LAB03-SQ-ATM.png
+- FormLogin (STYLE.css, INDEX.html, SCRIPT.js)
+- project-report.md
 
 ## 6. Kết luận
 - Đã hoàn thiện quy trình từ thiết kế đến triển khai
